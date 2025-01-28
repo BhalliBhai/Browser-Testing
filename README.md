@@ -6,9 +6,36 @@ Published January 28, 2025
 
 ## Table of Contents
 
+- [Getting Started](#getting-started)
 - [What Are The Major Browsers?](#what-are-the-major-browsers)
 - [Method That Works for Linux, macOS, Windows](#method-that-works-for-linux-macos-windows)
 - [Troubleshooting](#troubleshooting)
+
+---
+
+## Getting Started
+
+To set up and run the project, follow these steps:
+
+### 1. Clone the Repository
+```sh
+git clone https://github.com/BhalliBhai/Browser-Testing.git
+cd Browser-Testing
+```
+
+### 2. Install Dependencies
+```sh
+npm install
+```
+
+### 3. Run Tests
+To test your site in different browsers, use the following commands:
+
+```sh
+npm run test:chrome  # Runs tests in Chrome
+npm run test:firefox # Runs tests in Firefox
+npm run test:safari  # Runs tests in Safari (WebKit)
+```
 
 ---
 
