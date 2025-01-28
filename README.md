@@ -37,7 +37,7 @@ npm run test:firefox # Runs tests in Firefox
 npm run test:safari  # Runs tests in Safari (WebKit)
 ```
 
-### 4. 🎇Browser Window is Infront of you...🎇
+### 4. 🎇Browser Window is In front of you...🎇
 
 ---
 
